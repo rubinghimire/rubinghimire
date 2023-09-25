@@ -7,16 +7,17 @@
 - 🎯 Portfolio website: [rubinghimire.com](https://www.rubinghimire.com)
 - ⚡ There is always one more bug to fix.  – Ellen Ullman
 
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=420 height="auto" src="https://github-readme-stats.vercel.app/api?username=rubinghimire&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true" />
+    </a>
+
+    
 💻 **I'm fascinated by**
 - Software Testing 
 - Software Development 
 - Data Science 
 - Computer Ethics 
 
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=420 height="auto" src="https://github-readme-stats.vercel.app/api?username=rubinghimire&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true" />
-    </a>
-    
 
 🛠 **Tech Stack**
 
