@@ -4,10 +4,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-rubin.ghimire@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rubin.ghimire@gmail.com)](mailto:rubin.ghimire@gmail.com) 
 
 
-- 🎯 Portfolio website: [rubinghimire.com](https://www.rubinghimire.com/)
+- 🎯 Portfolio website: [rubinghimire.com](https://external.ink?to=/rubinghimire.com)
 - ⚡ There is always one more bug to fix.  – Ellen Ullman
-
-    <script src="https://cdn.jsdelivr.net/gh/eddymens/markdown-external-link-script@v2.0.0/main.min.js"></script>
 
 💻 **I'm fascinated by**
 - Software Testing 
