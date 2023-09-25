@@ -17,8 +17,8 @@
       <img align="right" width=420 height="auto" src="https://github-readme-stats.vercel.app/api?username=rubinghimire&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true" />
     </a>
     
-    
-🛠**Tech Stack**
+
+🛠 **Tech Stack**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
