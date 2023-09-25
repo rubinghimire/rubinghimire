@@ -43,6 +43,6 @@
 
 
 <div align="center">
-    <a href="https://www.rubinghimire.com" target="_blank"><h3 align="center" >Show some &nbsp;❤️&nbsp; by visiting my website!</h3></a>
+    <h3 align="center" >Show some &nbsp;❤️&nbsp; by visiting my website!</h3>
 </div>
 
