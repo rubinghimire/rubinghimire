@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-rubin.ghimire@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rubin.ghimire@gmail.com)](mailto:rubin.ghimire@gmail.com) 
 
 
-- 🎯 Portfolio website: [rubinghimire.com](https://www.rubinghimire.com){:target="_blank"}
+- 🎯 Portfolio website: [rubinghimire.com](https://www.rubinghimire.com){target="_blank"}
 - ⚡ There is always one more bug to fix.  – Ellen Ullman
 
 💻 **I'm fascinated by**
