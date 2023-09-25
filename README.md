@@ -5,7 +5,7 @@
 
 
 - 🎯 Portfolio website: [rubinghimire.com](https://www.rubinghimire.com/)
-<script src='https://cdn.jsdelivr.net/gh/eddymens/markdown-external-link-script@v2.0.0/main.min.js'></script>
+    <script src='https://cdn.jsdelivr.net/gh/eddymens/markdown-external-link-script@v2.0.0/main.min.js'>{newline}</script>
 - ⚡ There is always one more bug to fix.  – Ellen Ullman
 
 
