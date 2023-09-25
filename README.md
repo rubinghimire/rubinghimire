@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-rubinghimire-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rubinghimire/)](https://www.linkedin.com/in/rubinghimire/)
 [![Gmail Badge](https://img.shields.io/badge/-rubin.ghimire@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rubin.ghimire@gmail.com)](mailto:rubin.ghimire@gmail.com) 
 
-- 🎯 Portfolio website: [Portfolio](https://rubinghimire.com/)
+- 🎯 Portfolio website: [Portfolio](https://www.rubinghimire.com/)
 - ⚡ There is always one more bug to fix.  – Ellen Ullman
 
 💻 **I'm fascinated by**
@@ -24,32 +24,25 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-
-
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-
-
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazon-aws)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Apache Ant](https://img.shields.io/badge/Apache%20Ant-A81C7D?style=for-the-badge&logo=Apache%20Ant&logoColor=white)
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
-
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
 
 <div align="center">
-    <h3 align="center">Show some &nbsp;❤️&nbsp; by visiting my website!</h3>
+    <a href="https://www.rubinghimire.com" target="_blank"><h3 align="center" >Show some &nbsp;❤️&nbsp; by visiting my website!</h3></a>
 </div>
 
