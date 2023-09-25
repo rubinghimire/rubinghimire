@@ -5,9 +5,9 @@
 
 
 - 🎯 Portfolio website: [rubinghimire.com](https://www.rubinghimire.com/)
-    <body><script src="https://cdn.jsdelivr.net/gh/eddymens/markdown-external-link-script@v2.0.0/main.min.js">{newline}</script></body>
 - ⚡ There is always one more bug to fix.  – Ellen Ullman
 
+    <script src="https://cdn.jsdelivr.net/gh/eddymens/markdown-external-link-script@v2.0.0/main.min.js"></script>
 
 💻 **I'm fascinated by**
 - Software Testing 
