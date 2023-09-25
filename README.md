@@ -3,7 +3,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-rubinghimire-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rubinghimire/)](https://www.linkedin.com/in/rubinghimire/)
 [![Gmail Badge](https://img.shields.io/badge/-rubin.ghimire@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rubin.ghimire@gmail.com)](mailto:rubin.ghimire@gmail.com) 
 
- [![Rubin's GitHub stats](https://stats.justsong.cn/api/github?username=rubinghimire)](https://github.com/songquanpeng/stats-cards)
+ [![My GitHub stats](https://stats.justsong.cn/api/github?username=rubinghimire&theme=dracula)](https://github.com/songquanpeng/stats-cards)
+ [![My Leetcode stats](https://stats.justsong.cn/api/leetcode/?username=rubinghimire&theme=vuedark)](https://github.com/songquanpeng/stats-cards)
 
 
 - 🎯 Portfolio website: [rubinghimire.com](https://www.rubinghimire.com)
