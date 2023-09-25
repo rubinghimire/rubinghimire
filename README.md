@@ -3,9 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-rubinghimire-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rubinghimire/)](https://www.linkedin.com/in/rubinghimire/)
 [![Gmail Badge](https://img.shields.io/badge/-rubin.ghimire@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rubin.ghimire@gmail.com)](mailto:rubin.ghimire@gmail.com) 
 
- <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=420 height="auto" src="https://github-readme-stats.vercel.app/api?username=rubinghimire&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true" />
-    </a>
+ [![Rubin's GitHub stats](https://stats.justsong.cn/api/github?username=rubinghimire)](https://github.com/songquanpeng/stats-cards)
 
 
 - 🎯 Portfolio website: [rubinghimire.com](https://www.rubinghimire.com)
