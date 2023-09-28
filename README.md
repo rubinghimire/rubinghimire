@@ -15,7 +15,7 @@
 - Software Testing 
 - Software Development 
 - Data Science 
-- Computer Ethics 
+- Humane Design
 
 
 🛠 **Tech Stack**
