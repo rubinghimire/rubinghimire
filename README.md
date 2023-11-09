@@ -1,5 +1,5 @@
 
-### Hi there, I am Rubin Ghimire 👋
+### Hi there, I am Rubin Ghimire, A Software Test Engineer 👋
 [![Linkedin Badge](https://img.shields.io/badge/-rubinghimire-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rubinghimire/)](https://www.linkedin.com/in/rubinghimire/)
 [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rubin.universe@gmail.com)](mailto:rubin.universe@gmail.com)
 
@@ -11,7 +11,7 @@
 
 
 - 🎯 Website: [rubinghimire.com](https://www.rubinghimire.com)
-- ⚡ There is always one more bug to fix.  – Ellen Ullman
+- ⚡ All of my public repos are projects that I have done for learning and fun.
 
     
 💻 **I'm fascinated by**
