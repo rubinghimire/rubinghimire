@@ -1,5 +1,5 @@
 
-### Hi there, I am Rubin Ghimire, A Software Test Engineer 👋
+### Hi there, I am Rubin Ghimire 👋
 [![Linkedin Badge](https://img.shields.io/badge/-rubinghimire-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rubinghimire/)](https://www.linkedin.com/in/rubinghimire/)
 [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rubin.universe@gmail.com)](mailto:rubin.universe@gmail.com)
 
@@ -7,11 +7,6 @@
 [![Leetcode Stats](https://stats.justsong.cn/api/leetcode/?username=rubinghimire&theme=vue-dark)](https://github.com/songquanpeng/stats-cards)
 
 
-
-
-
-- 🎯 Website: [rubinghimire.com](https://www.rubinghimire.com)
-- ⚡ All of my public repos are projects that I have done for learning and fun.
 
     
 💻 **I'm fascinated by**
